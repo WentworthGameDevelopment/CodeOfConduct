@@ -2,7 +2,7 @@ _Last Update: November 17, 2018_
 
 The Wentworth Game Development club seeks to create a safe enviornment where all students can come to learn about the process of game devleopment. Our mission is to teach game development, and project management skills to any student who is interested. No one in the club should ever have to feel harassed or uncomfortable for any reason at an event or lecture.
 
-## Anti-harassment Policy
+## Anti-Harassment Policy
 
 Harassment includes, but is not limited to:
 
@@ -24,6 +24,11 @@ If you feel uncomfortable or think there may be a potential violation of the cod
 
 If you feel uncomfortable reporting to either of the previously mentioned contacts you can fill out the following form online:
 [Incident Report](https://goo.gl/eutg8L)
+
+## Potential Consequences
+
+- Violating any of the policies listed in our Anti-Harassment policy could result in loss of membership to the club and potentially greater consequences on a University level. 
+- The Wentworth Game Development Club aims to create an inclusive enviornment for **ALL** students to feel comfortable to learn regardless of their gender, age, sexual orientation, disability, physical appearance, body size, race, age, religion, social class, or technical background. 
 
 ### Considerations
 
